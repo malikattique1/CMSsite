@@ -1,0 +1,6 @@
+
+#navbarcollapseCMS ul li.active a, #navbarcollapseCMS ul li a:hover {
+  text-decoration:none;
+    color:#fff;
+    /* background:url(../images/menu_a.jpg) no-repeat center top; */
+}
